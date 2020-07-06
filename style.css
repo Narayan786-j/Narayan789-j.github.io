@@ -1,6 +1,18 @@
-p{color:green;}
+p{color:orange;
+   font-size:20px}
+.f{ margin:0 auto}
 
-body{ background-image:url(.jpg);
+body{ background-image:url(b2.jpg);
           background-repeat: no-repeat;
-          width:100%;
-        background-color:yellow;}
+          background-size:cover;}
+.nayan{width:200px;
+            margin: 0 auto
+             border:2px solid red;
+            background:url(.jpg);}
+.a{width:500px;
+     margin:0 auto}
+.i{ float:right;
+     margin: 0 0 2 50;}
+.r {width:200px}
+.n {width:200px;
+      float:left}
